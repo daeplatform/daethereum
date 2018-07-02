@@ -14,8 +14,7 @@ What is Daethereum?
 Daethereum (DTHR) is digital asset designed without relying on a central server.
 Daereum is based on ERC20-Token in Ethereum Blockchain.
 
-For more information, as well as an immediately useable, binary version of
-the Daecoin software, see https://www.daeplatform.net/daethereum.
+For more information, see https://www.daeplatform.net/daethereum.
 
 
 
